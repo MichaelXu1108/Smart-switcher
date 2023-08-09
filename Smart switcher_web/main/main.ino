@@ -10,8 +10,8 @@
 #define LED_D8 0 //--> Defines an LED Pin. D8 = GPIO15
 
 //----------------------------------------SSID and Password of your WiFi router.
-const char* ssid = "iPhone"; //--> Your wifi name or SSID.
-const char* password = "beig4675"; //--> Your wifi password.
+const char* ssid = " "; //--> Your wifi name or SSID.
+const char* password = " "; //--> Your wifi password.
 //----------------------------------------
 
 //----------------------------------------Web Server address / IPv4
