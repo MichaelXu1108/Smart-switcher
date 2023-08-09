@@ -2,8 +2,8 @@
 #define RELAY 0   //定義GPIO0
 
 // 設定無線基地台SSID跟密碼
-const char* ssid     = "iPhone";     //改成您的SSID 
-const char* password = "beig4675";   //改成您的密碼
+const char* ssid     = " ";     //改成您的SSID 
+const char* password = " ";   //改成您的密碼
 
 // 設定 web server port number 80
 WiFiServer server(80);
